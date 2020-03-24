@@ -1,12 +1,12 @@
 {
-  "name": "eztable-test-mysql2",
+  "name": "test-mysql2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Johnson Wang",
   "license": "ISC",
   "dependencies": {
     "mysql2": "^2.1.0"
