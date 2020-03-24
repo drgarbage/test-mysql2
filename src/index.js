@@ -3,9 +3,9 @@ let { DataProvider } = require('./DataProviderNoPool');
 let { DataProviderLogger } = require('./DataProviderLogger');
 
 const CONFIG = {
-  host: '13.114.233.88',
-  user: 'root',
-  password: 'eztable323'
+  host: '[host]',
+  user: '[user]',
+  password: '[password]'
 };
 
 const callService = async () => {
